@@ -1,4 +1,4 @@
-#Spotify_Playlist_Data
+# Spotify_Playlist_Data
 Using Python, with the SQL Alchemy and Pandas libraries I have connected to the spotify API using another library called Spotipy. 
 I have cleared out my personal "Client ID" and "Client Secret." These two strings come from a personal Spotify account and the data cannot be pulled without one. 
 I have added a user-input for the playlist string you would like to download into a pandas dataframe.
