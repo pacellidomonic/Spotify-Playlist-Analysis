@@ -1,6 +1,6 @@
 # Spotify_Playlist_Data
 * Using Python, with the SQL Alchemy and Pandas libraries I have connected to the spotify API using another library called Spotipy.
-## requirements
+## Requirements
 * Spotify Premium Account
 ## How to use
 1. I have cleared out my personal "Client ID" and "Client Secret." You will need to obtain these two strings come from a personal Spotify account.
